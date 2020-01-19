@@ -1,0 +1,109 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_3 {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+._标题_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._标题_2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._标题_3 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._标题_4 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._标题_5 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._标题_6 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本 {
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+._横线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._图像 {
+  color:#000000;
+}
+._文本1 {
+  font-size:11px;
+  text-align:left;
+}
+._图像1 {
+  font-size:11px;
+  color:#000000;
+}
+._形状 {
+  font-size:11px;
+}
+._形状1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+._图像2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+._默认样式 {
+}
+._文本2 {
+  text-align:left;
+}
+._形状2 {
+}
